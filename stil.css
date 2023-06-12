@@ -1,0 +1,61 @@
+/* CSS Document */ 
+
+p {  
+	color: #26C69C; 
+	font-family: Constantia, "Lucida Bright"; "Dejavu Serif", Georgia; "serif"; 
+	font-size: 16px; 
+	line-height: 18px; 
+	width: 800px; 
+	background-color: antiquewhite; 
+	padding: 20px; 
+} 
+
+@font-face{
+	font-family: "customfont";
+	src: url(Font/LauraBartulinDiez_V1.ttf);
+}
+
+h1{
+	font-family: customfont;
+}
+
+a:hover{
+	background-color: #74DC92;
+}
+	
+.pozadina{
+	background-image: url("Slike_k3/Omori-dance.gif");
+}
+
+.drugapozadina{
+	background-image: url()
+}
+
+.nav{
+	color: #74DC92;
+}
+
+.nav-lista {
+	margin: 5px;
+}
+
+.meni-font{
+	font-family: Constantia, "Times new roman"; "Dejavu Serif", Georgia; "serif";
+}
+
+img{
+	height: 500px;
+	width: 350px;
+}
+
+.drugifont{
+	font-family: Magneto;
+}
+
+.trecifont{
+	font-family: Arial;
+}
+
+.slikapozadina{
+	background-image: url("Slike_k3/Omori-dance.gif");
+}
